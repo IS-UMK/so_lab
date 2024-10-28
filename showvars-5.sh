@@ -6,8 +6,6 @@ then
    exit 0
 fi
 
-
-
 for arg
 do
    echo $arg
