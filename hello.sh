@@ -2,4 +2,6 @@
 
 # komentarz
 
+
+
 echo '$$( Hello '$USER' ! )$$'
