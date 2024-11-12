@@ -1,4 +1,4 @@
 #!/bin/bash
 
 eval $1 > /dev/null 2>1 
-echo "exit code is $?"
+echo "Exit code is $?"
